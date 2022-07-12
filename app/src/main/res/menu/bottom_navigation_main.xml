@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/contacts"
+        android:enabled="true"
+        android:icon="@drawable/contact"
+        android:title="SOS Contacts" />
+
+    <item
+        android:id="@+id/police"
+        android:enabled="true"
+        android:icon="@drawable/police"
+        android:title="Police" />
+
+    <item
+        android:id="@+id/tips"
+        android:enabled="true"
+        android:icon="@drawable/tips"
+        android:title="Safety Tips" />
+
+    <item
+        android:id="@+id/reportabuse"
+        android:enabled="true"
+        android:icon="@drawable/reporticon"
+        android:title="Report" />
+
+
+</menu>
